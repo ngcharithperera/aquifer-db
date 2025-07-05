@@ -4,3 +4,7 @@ knowledge/*.dbf filter=lfs diff=lfs merge=lfs -text
 knowledge/tl_2023_us_county/*.shp filter=lfs diff=lfs merge=lfs -text
 knowledge/tl_2023_us_county/*.dbf filter=lfs diff=lfs merge=lfs -text
 knowledge/tl_2023_us_county/*.shx filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_aiannh/*.shp filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_aiannh/*.dbf filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_state/*.shp filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_state/*.dbf filter=lfs diff=lfs merge=lfs -text
