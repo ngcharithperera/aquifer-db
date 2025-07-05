@@ -1,1 +1,6 @@
 data/aquifer.db filter=lfs diff=lfs merge=lfs -text
+knowledge/*.shp filter=lfs diff=lfs merge=lfs -text
+knowledge/*.dbf filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_county/*.shp filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_county/*.dbf filter=lfs diff=lfs merge=lfs -text
+knowledge/tl_2023_us_county/*.shx filter=lfs diff=lfs merge=lfs -text
