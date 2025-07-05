@@ -1,0 +1,325 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Barb Stiff
+      Publication_Date: 1996
+      Title: Quaternary Deposits of Illinois, 1996
+      Edition: 20040422
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: ISGS GIS Database
+        Issue_Identification: GISDB_QTGEO.IL_Quat_Geology_2500K_1996
+      Publication_Information:
+        Publication_Place: Champaign, Illinois
+        Publisher: Illinois State Geological Survey
+      Online_Linkage: http://www.isgs.illinois.edu/
+      Online_Linkage: http://illinois.edu
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: A.K. Hansel and Johnson, W.H.
+          Publication_Date: 1996
+          Title: Wedron and Mason Groups: Lithostratigraphic Reclassification of Deposits of the Wisconsin Episode, Lake Michigan Lobe Area
+          Geospatial_Data_Presentation_Form: document
+          Series_Information:
+            Series_Name: Illinois State Geological Survey Bulletin
+            Issue_Identification: 104
+          Publication_Information:
+            Publication_Place: Champaign, Illinois
+            Publisher: Illinois State Geological Survey
+  Description:
+    Abstract: This feature dataset is a generalized version of Quaternary Deposits of Illinois.  Updated to reflect the areal distribution of the Wedron and Mason Groups (Wisconsin and Hudson Episodes) and deposits of the Illinoian and pre-Illinoian episodes in Illinois as described in ISGS Bulletin 104.  Episodes are diachronic temporal units. Refer to the primary sources for more information. Scale is 1:2,500,000.
+    Purpose:
+      This data set was designed to be a generalized statewide coverage suitable for use in page-sized figures (8.5 x 11 inches).
+
+      THIS DATA SET DOES NOT REPLACE the Quaternary Geology map of 1979.
+
+      Information contained in this data set is more generalized than the 1979 version.  While the 1979 version is more detailed, it lacks recent updates to the lithostratigraphic reclassification of units which have been added to this 1996 version.  These updates primarily affect Wisconsin materials in north eastern Illinois.
+
+      The data are not appropriate as a geodetic, legal or engineering base.  The data set was not and is not intended as a substitute for surveyed locations, such as can be determined by a registered Public Land Surveyor.  Although useful in a GIS as a reference base layer for maps, the data set has no legal basis in the definition of boundaries or property lines.
+    Supplemental_Information:
+      Recent updates to the data:
+
+      In April 2004 edition 1.0 of the data set was transitioned to storage in an Oracle RDBMS using the ArcSDE geodatabase model.  The result (this version) is designated Edition 20040422.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 1996
+    Currentness_Reference: Publication date of A.K. Hansel and Johnson, W.H.
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: future revisions planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -91.5826823
+      East_Bounding_Coordinate: -87.38401652
+      North_Bounding_Coordinate: 42.49563968
+      South_Bounding_Coordinate: 36.95351896
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: geology
+      Theme_Keyword: geologic
+      Theme_Keyword: surface
+      Theme_Keyword: surficial
+      Theme_Keyword: loess
+      Theme_Keyword: silt
+      Theme_Keyword: sand
+      Theme_Keyword: gravel
+      Theme_Keyword: till
+      Theme_Keyword: alluvium
+      Theme_Keyword: colluvium
+      Theme_Keyword: moraine
+      Theme_Keyword: end moraine
+      Theme_Keyword: ground moraine
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Illinois
+    Stratum:
+      Stratum_Keyword_Thesaurus: none
+      Stratum_Keyword: Cahokia Formation
+      Stratum_Keyword: Henry Formation
+      Stratum_Keyword: Wedron Group
+      Stratum_Keyword: Trafalgar Formation
+      Stratum_Keyword: Winnebago Formation
+      Stratum_Keyword: Glasford Formation
+      Stratum_Keyword: Teneriffe Silt
+      Stratum_Keyword: Pearl Formation
+      Stratum_Keyword: Wolf Creek Formation
+    Temporal:
+      Temporal_Keyword_Thesaurus: none
+      Temporal_Keyword: Quaternary
+      Temporal_Keyword: Hudson episode
+      Temporal_Keyword: Wisconsin Episode
+      Temporal_Keyword: Illinois episode
+      Temporal_Keyword: Pre-Illinois Episodes
+      Temporal_Keyword: Paleozoic, Mesozoic, Cenozoic
+  Access_Constraints:
+    ISGS information must be obtained directly from the ISGS or from an authorized distributor.  Be aware that ISGS information obtained from an unauthorized third party may have been altered subsequent to original distribution, or may no longer be current.
+
+    Any access to these data, Web sites, computer systems, electronic services, and electronic networks is governed by University and campus policies, in particular, but not limited to, the Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign, the ISGS Terms of Use document available at the ISGS Web site, and the University of Illinois Web Privacy Notice.
+
+    Links to these are provided in the Cross References section.
+  Use_Constraints:
+    ISGS information is the property of and copyrighted by the Board of Trustees of the University of Illinois with all rights reserved.  University copyright policy is stated in the General Rules Concerning University Organization and Procedure, Article III, Section 4.  A link is provided in the Cross References section.
+
+    Individuals or entities may make fair use of copyrighted ISGS material, such as reproducing a single figure or table, or using a brief text quotation, without obtaining formal permission, but in all cases the Illinois State Geological Survey must be credited as the source of the material. To reproduce ISGS information beyond the fair use standard, permission must be obtained from the ISGS Information Office, 615 East Peabody Drive, Champaign, Illinois 61820, 217-333-4747, isgs@isgs.illinois.edu. License fees and a license agreement may be required, depending on the proposed usage.
+
+    Any use of these data is governed by University and campus policies, in particular, but not limited to, the Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign, the ISGS Terms of Use document available at the ISGS Web site, and the University of Illinois Web Privacy Notice.  Links to these are provided in the Cross References section.
+
+    Map information is to be used at a scientifically and cartographically appropriate scale, that is, at a scale no greater than indicated on the map or as described in the documentation of the map or map data.  Map information is not appropriate for, and is not to be used as, a geodetic, legal, or engineering base. Map information has no legal basis in the definition of boundaries or property lines and is not intended as a substitute for surveyed locations such as can be determined by a registered Public Land Surveyor.
+
+    The data do not replace the need for detailed site-specific studies.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Instructions: Please refer to the Distribution Information section.
+  Native_Data_Set_Environment: ArcSDE 9.1 on Oracle 10g
+  Cross_Reference:
+    Citation_Information:
+      Title: ISGS Terms of Use
+      Online_Linkage: http://www.isgs.illinois.edu
+  Cross_Reference:
+    Citation_Information:
+      Title: University of Illinois Web Privacy Notice
+      Online_Linkage: http://www.vpaa.uillinois.edu/policies/web_privacy.cfm
+  Cross_Reference:
+    Citation_Information:
+      Title: University Copyright Policy (stated in the General Rules Concerning University Organization and Procedure, Article III, Section 4)
+      Online_Linkage: http://www.uillinois.edu/trustees/rules.cfm#sec34
+  Cross_Reference:
+    Citation_Information:
+      Title: Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign
+      Online_Linkage: http://www.fs.uiuc.edu/cam/CAM/viii/viii-1.1.html
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Polygon attributes have not been individually verified.  The figure produced from this data set was included in the Hansel and Johnson, 1996 publication, which underwent the standard ISGS Bulletin peer review process.  Maps produced with these data are problematic, as they present a generalized view of Quaternary Deposits in Illinois that include some newly designated units but eliminate a great deal of valid details.  The planned revisions will address this issue.
+  Logical_Consistency_Report: Polygon and chain-node topology was present when the dataset was in coverage form.  This data set was checked for complete chain-node topology (no dangling arcs, except where appropriate), polygon labels (one per polygon, except for universal polygon), boundary values appropriate for map projection and map units, and appropriate "fuzzy" tolerances.  There are no known arc or polygon attribute values outside the appropriate value domains.
+  Completeness_Report: This data set was created by merging the digital information provided by the MORAINES and QUAT79 data sets.  (The dataset refered to as QUAT79 was transitioned into SDE in 200404.  It is now known as GISDB_QTGEO.IL_Quat_Geology_500K_1979_Py.  The same applied to MORAINES.  It is now known as GISDB_QTGEO.IL_Moraines_Py.)  Many valid polygons from the source GIS data set (QUAT79) were eliminated due to generalization.  The Harrisville, Temperance Hill, and Atkinson moraines from the MORAINES data set were not included as they may not be Wisconsinan in age, but rather, may represent earlier periods of glaciation.  These data represent the generalized interpretations of ISGS geologists, based on data available in 1996.  Users of these data should consult Hansel and Johnson, ISGS Bulletin 104 (1996) for a complete description of the relationship between the data and the actual ground condition.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The horizontal positional accuracy of these data is dependent on that of the source data sets.  Positional accuracy reports from those data sets are reproduced here.
+
+        For QUAT79:  This coverage was generated by Environmental Systems Research Institute as one component of a multi-layer Integrated Terrain Unit (ITU) database.  Automation was limited to polygons with area of one square mile or greater and linear features greater than one-half mile in width.  Boundaries which were generally coincident with boundaries of other ITU layers (e.g., soil associations or surface water bodies) may have been adjusted to be exactly coincident.  Overlay with the published map shows significant differences in some areas.  This data can only be used to show the generalized Quaternary boundaries within Illinois.
+
+        For MORAINES:  Horizontal positional accuracy was verified in October, 1991 by manual overlay of source and hard-copy plots.  Lines within one line-width of the source were deemed acceptable.  Accuracy of the source with respect to the ground condition was not addressed in this review.  Consult the source for such information.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Illinois State Geological Survey
+          Publication_Date: 1984
+          Title: Quaternary Deposits of Illinois
+          Geospatial_Data_Presentation_Form: map
+          Series_Information:
+            Series_Name: ISGS GIS Database
+            Issue_Identification: GISDB_QTGEO.IL_Quat_Geology_500K_1979
+          Publication_Information:
+            Publication_Place: Champaign, Illinois
+            Publisher: Illinois State Geological Survey
+      Source_Scale_Denominator: 500000
+      Type_of_Source_Media: digital
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1979
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: none
+      Source_Contribution: linework and attributes
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Illinois State Geological Survey
+          Publication_Date: 199108
+          Title: End moraines of the Wisconsin Episode in Illinois
+          Geospatial_Data_Presentation_Form: map
+          Series_Information:
+            Series_Name: ISGS GIS Database
+            Issue_Identification: GISDB_QTGEO.IL_Moraines
+          Publication_Information:
+            Publication_Place: Champaign, Illinois
+            Publisher: Illinois State Geological Survey
+      Source_Scale_Denominator: 500000
+      Type_of_Source_Media: digital
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 199108
+        Source_Currentness_Reference: publication date of source
+      Source_Citation_Abbreviation: none
+      Source_Contribution: linework and attributes
+    Process_Step:
+      Process_Description:
+        Quaternary deposits and stratigraphy data from the two source data sets were reformatted and regrouped to reflect Quaternary materials according to Hansel and Johnson, 1996.  Updates focused on Wisconsinan materials in the north eastern portion of the state.  There were essentially no changes made to Illinoian materials.
+
+        GIS processing followed these basic steps:
+        1) Union of MORAINES and QUAT79
+        2) resel for codes that were moraines
+        3) group these according to parent material
+      Process_Date: 1995
+    Process_Step:
+      Process_Description:
+        Source coverage (quat96) converted to double precision and reprojected to GCS_NAD83 using Workstation ArcInfo 7.2.1.
+
+        The features were imported into the ISGS SDE enterprise database  following steps outlined in ISGS procedure GISDB_0009.
+
+        Metadata updated.
+      Process_Date: 20040422
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 1090
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      Attribute items are in typical feature class format.  Those requiring additional explanation are:
+
+      Arc attributes:
+      SYMBOL - archival code used for coverage maintenance
+      0 - Quaternary materials contacts
+      1 - Quaternary materials contacts
+      2 - moraines
+      922 - Quaternary materials contacts
+      993 - Quaternary materials contacts
+      999 - state boundary
+
+      CODE - archival code used for coverage maintenance
+      0 - arcs visible on B104 plate
+      1 - loess or other boundaries not visible on B104 plate
+
+      Polygon Attributes:
+      SYMBOL2  - Numeric code for geologic deposits, for small scale generalizations
+      100 - Wisconsin or younger deposits
+      150 - end moraines of Wisconsin Episode
+      200 - deposits of Illinois Episode
+      999 - no or highly eroded glacial deposits
+      0 - uncoded
+
+      SYMBOL   - Numeric code for geologic deposits, generalized by event
+      100 - Wisconsin glaciation
+      200 - Illinoian glaciation
+      300 - pre-Illinoian glaciation
+      700 - floodplain beyond glacial limit
+      800 - bedrock
+      900 - beyond known glacial extent
+
+      QDSYMBOL - Numeric code for stratigraphic classification
+      10 - Cahokia and/or Henry Formation
+      15 - Cahokia and/or Henry Formation
+      20 - Equality Formation
+      30 - Wedron Group (end moraine)
+      40 - Wedron Group (ground moraine)
+      50 - Winnebago Formation
+      60 - Glasford Formation
+      70 - Pearl Formation
+      80 - Wolf Creek Formation
+      90 - Paleozoic rock
+
+      QUATCODE - Alphanumeric code for geologic deposits, classified by material
+      C1 - waterlain river sediment and wind-blown beach sand
+      E1 - fine-grained sediment deposited in lakes
+      M1 - diamicton deposited as till and ice-marginal sediment (Wisconsin Episode)
+      GM1- diamicton deposited as till and ice-marginal sediment (Wisconsin Episode)
+      I1 - diamicton deposited as till and ice-marginal sediment (Illinois Episode)
+      I2 - sorted sediment including river and lake deposits and wind-blown sand
+      P1 - bedrock; exposed of covered by loess and/or residuum
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Information Office, Illinois State Geological Survey (ISGS), a division of the Institute of Natural Resource Sustainability (INRS) of the University of Illinois
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 615 East Peabody Drive
+        City: Champaign
+        State_or_Province: Illinois
+        Postal_Code: 61820
+        Country: USA
+      Contact_Voice_Telephone: 217-333-4747
+      Contact_TDD/TTY_Telephone: 217-785-0211
+      Contact_Electronic_Mail_Address: isgs@isgs.illinois.edu
+      Hours_of_Service: 8:00 a.m. - 4:30 p.m., Monday-Friday, U.S. Central Time
+  Distribution_Liability:
+    Refer to the Legal Notices of Terms and Conditions of the University of Illinois Web Privacy Policy (there is a link in the Cross References section) for policy statements regarding the following:
+
+    Disclaimer of Liability
+    Disclaimer of Warranties and Accuracy of Data
+    Disclaimer of Endorsement
+    Disclaimer for External Links
+    Disclaimer of Duty to Continue Provision of Data
+    Security
+    Choice of Law
+
+    By obtaining these data you agree to the provisions of the University of Illinois Web Privacy Policy, regardless of the manner in which the information was obtained.
+  Technical_Prerequisites: The data are intended for use with GIS software. The ISGS uses ESRI ArcGIS software, however,  ESRI formats can be imported into many different GIS software packages. It is expected that customers who obtain these data have the technical expertise to use GIS software. The ISGS does not provide software support of any kind.
+Metadata_Reference_Information:
+  Metadata_Date: 20090224
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+      Contact_Instructions: Please refer to the Distribution Information section.
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: The access constraints as stated for the data apply also to the metadata.  Refer to the Access Constraints section of the Identification Information section.
+  Metadata_Use_Constraints: The use constraints as stated for the data apply also to the metadata.  Refer to the Use Constraints section of the Identification Information section.
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

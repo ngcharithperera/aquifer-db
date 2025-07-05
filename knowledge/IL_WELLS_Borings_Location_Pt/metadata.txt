@@ -1,0 +1,248 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Illinois State Geological Survey
+      Publication_Date: 20080221
+      Title: Location Points from the ISGS Wells and Borings Database
+      Edition: 20250703
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: ISGS GIS Database
+        Issue_Identification: GISDB.IL_WELLS_Borings_Location_Pt
+      Publication_Information:
+        Publication_Place: Champaign, Illinois
+        Publisher: Illinois State Geological Survey
+      Online_Linkage: http://www.isgs.illinois.edu/
+      Online_Linkage: http://www.isgs.illinois.edu/sections/gru/wellmaps.shtml
+      Online_Linkage: http://illinois.edu
+  Description:
+    Abstract:
+      This shapefile contains point locations from the ISGS Wells and Borings database.  The attribute information include API number (the ID), well or boring type, longitude, and latitude.  The spatial reference is geographic coordinates, decimal degrees, NAD83.
+
+      The data are exported to a shapefile weekly from the Wells and Borings (source) database for Internet distribution.  The source database is updated daily.  Thus, there may be recent updates (last 7 days) in the source database that are not reflected in this shapefile.
+
+      The data are primarily oil, gas and water wells, but also include other designations such as engineering boring, stratigraphic test hole, injection well, etc.
+
+      The collection contains data for over 580,000 wells and borings, some dating back to 1801 (assumed.)  Most locations have not been field verified.
+
+      The nominal scale is 1:62,500, however locations have been determined in several different ways at different scales.  Most commonly, the location is derived by converting a legal  (i.e. Public Land Survey Survey - PLSS) description to a point location.  The stated accuracy is +/- 100 feet, however some points may be inaccurate by as much as one mile due to irregularities in the Illinois PLSS and associated descriptions.  For legal descriptions that indicate only a PLSS section or quarter-section, the point is assumed to be in the center of the respective section or quarter-section.
+
+      Additional detailed information about these wells and borings is available free of charge online at the Illinois State Geological Survey web site (http://www.isgs.illinois.edu/) in the ILOIL (oil and gas) and ILWATER (water and related wells) interactive map services.
+
+      Bulk and special order data retrievals are also available for a fee as described in the Standard Order Process of the Distribution Information section.  Additional information may include owner, permit details, PLSS location, total depth, surface elevation, geologic formation and material description, driller's log, and down-hole logs.
+    Purpose:
+      These data are intended to provide a simple GIS-based portrayal of the distribution and type of wells and borings in Illinois.
+
+      The data do not replace the need for detailed site-specific studies.
+
+      The information is not appropriate for, and is not to be used as, a geodetic, legal, or engineering base. The information has no legal basis in the definition of boundaries or property lines and is not intended as a substitute for surveyed locations such as can be determined by a registered Public Land Surveyor.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1801
+        Ending_Date: 20250703
+    Currentness_Reference: Oldest assumed permit date to date of extraction from ISGS Wells and Borings database
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Weekly
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -91.472896
+      East_Bounding_Coordinate: 0.000000
+      North_Bounding_Coordinate: 42.885817
+      South_Bounding_Coordinate: 0.000000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: well
+      Theme_Keyword: boring
+      Theme_Keyword: oil
+      Theme_Keyword: gas
+      Theme_Keyword: water
+      Theme_Keyword: engineering boring
+      Theme_Keyword: stratigraphic test
+      Theme_Keyword: injection
+      Theme_Keyword: coal
+      Theme_Keyword: mine
+      Theme_Keyword: mineral
+      Theme_Keyword: outcrop
+      Theme_Keyword: waste disposal
+      Theme_Keyword: storage tank
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Illinois
+  Access_Constraints: ISGS information must be obtained directly from the ISGS or from an authorized distributor. Be aware that ISGS information obtained from an unauthorized third party may have been altered subsequent to original distribution, or may no longer be current. Any access to these data, Web sites, computer systems, electronic services, and electronic networks is governed by University and campus policies, in particular, but not limited to, the Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign, the ISGS Terms of Use document available at the ISGS Web site, and the University of Illinois Web Privacy Notice. Links to these are provided in the Cross References section.
+  Use_Constraints:
+    ISGS information is the property of and copyrighted by the Board of Trustees of the University of Illinois with all rights reserved.  University copyright policy is stated in the General Rules Concerning University Organization and Procedure, Article III, Section 4.  A link is provided in the Cross References section.
+
+    Individuals or entities may make fair use of copyrighted ISGS material, such as reproducing a single figure or table, or using a brief text quotation, without obtaining formal permission, but in all cases the Illinois State Geological Survey must be credited as the source of the material. To reproduce ISGS information beyond the fair use standard, permission must be obtained from the ISGS Information Office, 615 East Peabody Drive, Champaign, Illinois 61820, 217-333-4747, isgs@isgs.illinois.edu. License fees and a license agreement may be required, depending on the proposed usage.
+
+    Any use of these data is governed by University and campus policies, in particular, but not limited to, the Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign, the ISGS Terms of Use document available at the ISGS Web site, and the University of Illinois Web Privacy Notice.  Links to these are provided in the Cross References section.
+
+    Map information is to be used at a scientifically and cartographically appropriate scale, that is, at a scale no greater than indicated on the map or as described in the documentation of the map or map data.  Map information is not appropriate for, and is not to be used as, a geodetic, legal, or engineering base. Map information has no legal basis in the definition of boundaries or property lines and is not intended as a substitute for surveyed locations such as can be determined by a registered Public Land Surveyor.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+      Contact_Instructions: Please refer to the contact information in the Distribution Information section.
+  Native_Data_Set_Environment: ArcGIS 9.2
+  Cross_Reference:
+    Citation_Information:
+      Title: ISGS Terms of Use
+      Online_Linkage: http://www.isgs.illinois.edu
+  Cross_Reference:
+    Citation_Information:
+      Title: University of Illinois Web Privacy Notice
+      Online_Linkage: http://www.vpaa.uillinois.edu/policies/web_privacy.cfm
+  Cross_Reference:
+    Citation_Information:
+      Title: University Copyright Policy (stated in the General Rules Concerning University Organization and Procedure, Article III, Section 4)
+      Online_Linkage: http://www.uillinois.edu/trustees/rules.cfm#sec34
+  Cross_Reference:
+    Citation_Information:
+      Title: Policy on Appropriate Use of Computers and Network Systems at the University of Illinois at Urbana-Champaign
+      Online_Linkage: http://www.fs.uiuc.edu/cam/CAM/viii/viii-1.1.html
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      Attributes are as recorded in the ISGS Wells and Borings database as of the noted date of extraction.  Attributes are collected from well permits and reports.  The information contained in these permits and reports is not verified by the ISGS.
+
+      Refer also to the Disclaimer of Warranties and Accuracy of Data section of the Legal Notices of Terms and Conditions section of the University of Illinois Web Privacy Policy.  A link is provided in the Cross References section.
+  Logical_Consistency_Report: Some points occur at the origin of coordinate space.  These are points for which a real location cannot be determined.  For example, they may have an erroneous or non-existent legal description.
+  Completeness_Report:
+    All non-confidential point locations in the ISGS Wells and Borings database are included.  It is likely there are existing wells and borings that are not included in the ISGS Wells and Borings database, for example, those not reported, those placed prior to a regulatory reporting requirement, and those not subject to a regulatory reporting requirement.
+
+    The data are exported to a shapefile weekly from the Wells and Borings (source) database for Internet distribution.  The source database is updated daily.  Thus, there may be recent updates (last 7 days) in the source database that are not reflected in the shapefile.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The nominal scale is 1:62,500, however locations have been determined in several different ways at different scales.  Most commonly, the location is derived by converting a legal  (i.e. Public Land Survey Survey - PLSS) description to a point location.  The stated accuracy is +/- 100 feet, however some points may be inaccurate by as much as one mile due to irregularities in the Illinois PLSS and associated descriptions.  For legal descriptions that indicate only a PLSS section or quarter-section, the point is assumed to be in the center of the respective section or quarter-section.
+
+        The collection contains data for over 580,000 wells and borings, some dating back to 1801 (assumed.)  Most locations have not been field verified.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Illinois State Geological Survey
+          Title: ISGS Wells and Borings database
+          Geospatial_Data_Presentation_Form: tabular digital data
+          Other_Citation_Details: This database is updated daily.
+      Source_Scale_Denominator: 62500
+      Type_of_Source_Media: disc
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1801
+            Ending_Date: present
+      Source_Contribution: All location and attribute information.
+    Process_Step:
+      Process_Description: The data are exported to a shapefile weekly from the Wells and Borings (source) database for Internet distribution.  The source database is updated daily.  Thus, there may be recent updates (last 7 days) in the source database that are not reflected in the shapefile.
+      Process_Date: weekly on Thursday
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 580000+, increasing weekly
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: IL_WELLS_Borings_Location_Pt
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: API_NUMBER
+      Attribute_Definition: Unique ID in American Petroleum Institute (API) format
+    Attribute:
+      Attribute_Label: STATUS
+      Attribute_Definition: Status/designation/type
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: status.dbf
+          Codeset_Source: ISGS Wells and Borings database
+    Attribute:
+      Attribute_Label: LATITUDE
+      Attribute_Definition: Latitude in decimal degrees, NAD83
+    Attribute:
+      Attribute_Label: LONGITUDE
+      Attribute_Definition: Longitude in decimal degrees, NAD83
+  Overview_Description:
+    Entity_and_Attribute_Overview: Refer to the companion file status.dbf for description of status codes.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Information Office, Illinois State Geological Survey (ISGS), a division of the Institute of Natural Resource Sustainability (INRS) of the University of Illinois
+      Contact_Position: Wells and Borings Database Administrator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 615 East Peabody Drive
+        City: Champaign
+        State_or_Province: Illinois
+        Postal_Code: 61820
+        Country: USA
+      Contact_Voice_Telephone: 217-333-4747
+      Contact_TDD/TTY_Telephone: 217-785-0211
+      Contact_Electronic_Mail_Address: isgs@isgs.illinois.edu
+      Hours_of_Service: 8:00 a.m. - 4:30 p.m., Monday-Friday, U.S. Central Time
+  Resource_Description:
+    The basic product in ESRI shapefile format includes the location, ID and type of well or boring and is available free of charge.
+
+    Additional detailed information about these wells and borings is available free of charge online at the Illinois State Geological Survey web site (http://www.isgs.illinois.edu/) in the ILOIL (oil and gas) and ILWATER (water and related wells) interactive map services.
+
+    Bulk and special order data retrievals are also available for a fee as described in the Standard Order Process.  Additional information may include owner, permit details, PLSS location, total depth, surface elevation, geologic formation and material description, driller's log, and down-hole logs.
+
+    Refer also to http://www.isgs.illinois.edu/sections/gru/wellmaps.shtml.
+  Distribution_Liability:
+    Refer to the Legal Notices of Terms and Conditions of the University of Illinois Web Privacy Policy (there is a link in the Cross References section) for policy statements regarding the following:
+
+    Disclaimer of Liability
+    Disclaimer of Warranties and Accuracy of Data
+    Disclaimer of Endorsement
+    Disclaimer for External Links
+    Disclaimer of Duty to Continue Provision of Data
+    Security
+    Choice of Law
+
+    By obtaining these data you agree to the provisions of the University of Illinois Web Privacy Policy, regardless of the manner in which the information was obtained.
+  Standard_Order_Process:
+    Fees: Retrieval/set-up fee $20.00, Media Charge: CD-ROM $10.00, Well header records (per well) $0.09, Well formation tops (per well) $0.09, Printed data page $0.30, Faxed data page $1.50, Additional Output Format $20.00
+    Ordering_Instructions: Contact the ISGS Information Office and request a custom extract from the Wells and Borings database.
+    Turnaround: typically 5 business days or less
+  Technical_Prerequisites: The data are intended for use with GIS software. The ISGS uses ESRI ArcGIS software, however, ESRI formats can be imported into many different GIS software packages. It is expected that customers who obtain these data have the technical expertise to use GIS software. The ISGS does not provide software support of any kind.
+Metadata_Reference_Information:
+  Metadata_Date: 20250703
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+      Contact_Instructions: Please refer to the contact information in the Distribution Information section.
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: The access constraints as stated for the data apply also to the metadata. Refer to the Access Constraints section of the Identification Information section.
+  Metadata_Use_Constraints: The use constraints as stated for the data apply also to the metadata. Refer to the Use Constraints section of the Identification Information section.
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
