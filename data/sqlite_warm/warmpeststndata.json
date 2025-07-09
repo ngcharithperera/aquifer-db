@@ -1,0 +1,121 @@
+{
+  "columns": [
+    {
+      "name": "StationNo",
+      "meaning": "station number",
+      "units": ""
+    },
+    {
+      "name": "EntryDate",
+      "meaning": "day (year and day of the year)",
+      "units": ""
+    },
+    {
+      "name": "IBASE45",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE48",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE50",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE54",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE41",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE455",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE61",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE43",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE47",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE53",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE39",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE52S",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE44",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE435",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE51",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE58",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "IBASE52",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "CBASE40",
+      "meaning": "calculated degrees days",
+      "units": "plant"
+    },
+    {
+      "name": "CBASE50",
+      "meaning": "calculated degrees days",
+      "units": "plant"
+    },
+    {
+      "name": "IBASE453",
+      "meaning": "calculated degrees days",
+      "units": "insect"
+    },
+    {
+      "name": "nDateTime",
+      "meaning": "time record placed in database",
+      "units": ""
+    }
+  ],
+  "table": "WarmPestStnData",
+  "description": "Station metadata and pest thresholds"
+}

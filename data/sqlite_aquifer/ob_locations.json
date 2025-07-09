@@ -1,0 +1,130 @@
+{
+  "table": "OB_LOCATIONS",
+  "description": "Observation well location metadata.",
+  "columns": [
+    {
+      "name": "P_NUMBER",
+      "meaning": "Unique ISWS identifier for the observation well."
+    },
+    {
+      "name": "X_LAMBERT",
+      "meaning": "X location in Lambert Conformal Conic projection."
+    },
+    {
+      "name": "Y_LAMBERT",
+      "meaning": "Y location in Lambert Conformal Conic projection."
+    },
+    {
+      "name": "LONG_NAD_83",
+      "meaning": "X location in GCS NAD 83 (2011)."
+    },
+    {
+      "name": "LAT_NAD_83",
+      "meaning": "Y location in GCS NAD 83 (2011)."
+    },
+    {
+      "name": "LONG_WGS_84",
+      "meaning": "X location in WGS 84."
+    },
+    {
+      "name": "LAT_WGS_84",
+      "meaning": "Y location in WGS 84."
+    },
+    {
+      "name": "X_WEBMERC",
+      "meaning": "X location in Web Mercator Auxiliary Sphere projection."
+    },
+    {
+      "name": "Y_WEBMERC",
+      "meaning": "Y location in Web Mercator Auxiliary Sphere projection."
+    },
+    {
+      "name": "LOC_TYPE",
+      "meaning": "Whether location was estimated from maps or measured by GPS."
+    },
+    {
+      "name": "LOC_METHOD",
+      "meaning": "Method of estimation or measurement."
+    },
+    {
+      "name": "LOC_DATUM",
+      "meaning": "Horizontal datum of XY measurement."
+    },
+    {
+      "name": "LOC_ACCUR_FT",
+      "meaning": "Estimated or recorded accuracy of XY location in feet."
+    },
+    {
+      "name": "LOC_SOURCE",
+      "meaning": "Who determined the location information."
+    },
+    {
+      "name": "LS_ELEV_FT",
+      "meaning": "Elevation of land surface above mean sea level in feet."
+    },
+    {
+      "name": "LS_ELEV_TYPE",
+      "meaning": "Whether elevation was estimated, measured, or calculated."
+    },
+    {
+      "name": "LS_ELEV_METHOD",
+      "meaning": "Method used to determine land surface elevation."
+    },
+    {
+      "name": "LS_ELEV_DATUM",
+      "meaning": "Vertical datum of land surface elevation."
+    },
+    {
+      "name": "LS_ELEV_ACCUR_FT",
+      "meaning": "Estimated or recorded accuracy of land surface elevation in feet."
+    },
+    {
+      "name": "LS_ELEV_SOURCE",
+      "meaning": "Who determined the land surface elevation information."
+    },
+    {
+      "name": "STICKUP_FT",
+      "meaning": "Vertical distance from land surface to the measuring point of the well in feet."
+    },
+    {
+      "name": "STICKUP_TYPE",
+      "meaning": "Whether stickup was estimated, measured, or calculated."
+    },
+    {
+      "name": "STICKUP_METHOD",
+      "meaning": "Method used to determine stickup."
+    },
+    {
+      "name": "STICKUP_SOURCE",
+      "meaning": "Who determined the stickup information."
+    },
+    {
+      "name": "TOC_ELEV_FT",
+      "meaning": "Elevation of top of casing or measuring point in feet above mean sea level."
+    },
+    {
+      "name": "TOC_ELEV_TYPE",
+      "meaning": "Whether top of casing elevation was estimated, measured, or calculated."
+    },
+    {
+      "name": "TOC_ELEV_METHOD",
+      "meaning": "Method used to determine top of casing elevation."
+    },
+    {
+      "name": "TOC_ELEV_DATUM",
+      "meaning": "Vertical datum of top of casing elevation."
+    },
+    {
+      "name": "TOC_ELEV_ACCUR_FT",
+      "meaning": "Estimated or recorded accuracy of top of casing elevation in feet."
+    },
+    {
+      "name": "TOC_ELEV_SOURCE",
+      "meaning": "Who determined the top of casing elevation information."
+    },
+    {
+      "name": "TRANSDUCER_REF",
+      "meaning": "Depth reference for transducer readings (TOC or LS)."
+    }
+  ]
+}
