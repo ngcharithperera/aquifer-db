@@ -1,0 +1,22 @@
+{
+  "table": "OB_RECERROR_DESCRIPTIONS",
+  "description": "Error codes associated with measurement quality checks.",
+  "columns": [
+    {
+      "name": "RecError_column",
+      "meaning": "Column name associated with the error."
+    },
+    {
+      "name": "RecError_column_code",
+      "meaning": "Short code for the column."
+    },
+    {
+      "name": "RecError_bounds",
+      "meaning": "Qualitative description of error bounds."
+    },
+    {
+      "name": "RecError_bounds_code",
+      "meaning": "Code for error bounds."
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "columns": [
+    {
+      "name": "nStationCode",
+      "meaning": "three letter code",
+      "units": ""
+    },
+    {
+      "name": "nDateTime",
+      "meaning": "date and time",
+      "units": "CST"
+    },
+    {
+      "name": "nAirTemp",
+      "meaning": "average air temperature at 2m",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nRelHumid",
+      "meaning": "average relative humidity at 2m",
+      "units": "%"
+    },
+    {
+      "name": "nWindDirectionDeg",
+      "meaning": "average wind direction at 10m",
+      "units": "mph"
+    },
+    {
+      "name": "nWindSpeed",
+      "meaning": "average wind speed at 10m",
+      "units": "mph"
+    },
+    {
+      "name": "nWindGust",
+      "meaning": "hourly maximum wind gust ",
+      "units": "mph"
+    },
+    {
+      "name": "nSolRadiat",
+      "meaning": "solar radiation",
+      "units": "kW/m2"
+    },
+    {
+      "name": "n2InBareSoil",
+      "meaning": "average soil temperature at 2\" under bare soil",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "n2InBareMax",
+      "meaning": "maximum soil temperature at 2\" under bare soil",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "n2InBareMaxTm",
+      "meaning": "time of maximum soil temperature at 2\" under bare soil",
+      "units": "CST"
+    },
+    {
+      "name": "n2InBareMin",
+      "meaning": "minimum soil temperature at 2\" under bare soil",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "n2InBareMinTm",
+      "meaning": "time of minimum soil temperature at 2\" under bare soil",
+      "units": "CST"
+    },
+    {
+      "name": "n4InSoil",
+      "meaning": "average soil temperature at 4\" under sod",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "n8InSoil",
+      "meaning": "average soil temperature at 8\" under sod",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "n4InBareSoil",
+      "meaning": "average soil temperature at 4\" under bare soil",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nBarPress",
+      "meaning": "barometric pressure",
+      "units": "mbar"
+    },
+    {
+      "name": "nBarPressCalc",
+      "meaning": "barometric pressure",
+      "units": "in Hg"
+    },
+    {
+      "name": "nDewPoint",
+      "meaning": "dew point",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nPrecipHrly",
+      "meaning": "precipitation",
+      "units": "in"
+    },
+    {
+      "name": "nPotEvapoTrans",
+      "meaning": "potential evapotranspiration",
+      "units": "in"
+    },
+    {
+      "name": "nSoilMoist5",
+      "meaning": "soil moisture at 5cm",
+      "units": "water fraction by volume (wfv)"
+    },
+    {
+      "name": "nSoilMoist10",
+      "meaning": "soil moisture at 10cm",
+      "units": "water fraction by volume (wfv)"
+    },
+    {
+      "name": "nSoilMoist20",
+      "meaning": "soil moisture at 20cm",
+      "units": "water fraction by volume (wfv)"
+    },
+    {
+      "name": "nSoilMoist50",
+      "meaning": "soil moisture at 50cm",
+      "units": "water fraction by volume (wfv)"
+    },
+    {
+      "name": "nSoilMoist100",
+      "meaning": "soil moisture at 100cm",
+      "units": "water fraction by volume (wfv)"
+    },
+    {
+      "name": "nSoilMoist150",
+      "meaning": "soil moisture at 150cm",
+      "units": "water fraction by volume (wfv)"
+    },
+    {
+      "name": "nAirTempMax",
+      "meaning": "maximum air temperature",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nAirTempMin",
+      "meaning": "minimum air temperature",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nWellLevel",
+      "meaning": "well level",
+      "units": "feet"
+    },
+    {
+      "name": "nSDWellLevel",
+      "meaning": "well level standard deviation",
+      "units": "feet"
+    },
+    {
+      "name": "nRelHumidMax",
+      "meaning": "maximum relative humidity",
+      "units": "%"
+    },
+    {
+      "name": "nRelHumidMin",
+      "meaning": "minimum relative humidity",
+      "units": "%"
+    },
+    {
+      "name": "nBarPressMax",
+      "meaning": "maximum barometric pressure",
+      "units": "mbars"
+    },
+    {
+      "name": "nBarPressMin",
+      "meaning": "minimum barometric pressure",
+      "units": "mbars"
+    },
+    {
+      "name": "nDirMaxGust",
+      "meaning": "direction of maximum wind gust",
+      "units": "degrees"
+    },
+    {
+      "name": "nTS",
+      "meaning": "time record was added to database",
+      "units": "CST"
+    }
+  ],
+  "table": "WarmICNData",
+  "description": "Daily meteorological station data"
+}

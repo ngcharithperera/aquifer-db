@@ -1,0 +1,101 @@
+{
+  "columns": [
+    {
+      "name": "nStationCode",
+      "meaning": "three letter code",
+      "units": ""
+    },
+    {
+      "name": "nDateTime",
+      "meaning": "date and time",
+      "units": "CST"
+    },
+    {
+      "name": "nAirTemp",
+      "meaning": "air temperature at 2m",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nRelHumid",
+      "meaning": "relative humidity at 2m",
+      "units": "%"
+    },
+    {
+      "name": "nWindDirectionDeg",
+      "meaning": "wind direction at 10m",
+      "units": "degrees"
+    },
+    {
+      "name": "nWindSpeed",
+      "meaning": "wind speed at 10m",
+      "units": "mph"
+    },
+    {
+      "name": "nWindGust",
+      "meaning": "wind gust at 10m",
+      "units": "mph"
+    },
+    {
+      "name": "nBarPress",
+      "meaning": "barometeric pressure",
+      "units": "mbars "
+    },
+    {
+      "name": "nBarPressCalc",
+      "meaning": "barometeric pressure",
+      "units": "in Hg"
+    },
+    {
+      "name": "nDewPoint",
+      "meaning": "dew point ",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nPrecip",
+      "meaning": "precipitation",
+      "units": "inches"
+    },
+    {
+      "name": "nPotEvapoTrans",
+      "meaning": "potential evapotranspiration",
+      "units": "inches"
+    },
+    {
+      "name": "nSolRadiat",
+      "meaning": "solar radiation",
+      "units": "kW/m2"
+    },
+    {
+      "name": "nWellLevel",
+      "meaning": "well level",
+      "units": "feet"
+    },
+    {
+      "name": "nAirTemp18",
+      "meaning": "air temperature at 0.48m",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nAirTemp120",
+      "meaning": "air temperature at 3m",
+      "units": "\u00b0C"
+    },
+    {
+      "name": "nWindSpd120",
+      "meaning": "wind speed at 3m",
+      "units": "mph"
+    },
+    {
+      "name": "nWindDir120",
+      "meaning": "wind direction at 3m",
+      "units": "degrees"
+    },
+    {
+      "name": "nTS",
+      "meaning": "time record was added to database",
+      "units": "CST"
+    }
+  ],
+  "table": "WarmICNFiveMin",
+  "description": "5-minute meteorological station data"
+}
